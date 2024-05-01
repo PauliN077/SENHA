@@ -1,0 +1,30 @@
+  :root{
+        --branco: white;
+        --cor-de-fundo: #00162E;
+        }
+
+        body{
+            color: var(--branco);
+            background-color: var(--cor-de-fundo);
+            font-family: var(--roboto);
+            }
+
+            :root{
+                --branco: white;
+                --cor-de-fundo: #00162E;
+                --fundo-senha: #00244D;
+                --fundo-texto: #001E40;
+                font-family: Arial, Helvetica, sans-serif;
+                --borda:#0075FF;
+                }
+
+                @import url(‘https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap’);
+
+             .titulo-secundario{
+                    font-size: 24px;
+                    }
+
+.imagem{
+    width: 3%;
+    height: 3%;
+}
